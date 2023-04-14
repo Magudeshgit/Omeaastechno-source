@@ -23,4 +23,4 @@ ham.addEventListener('click',()=>{
 	
 
 });
-ScrollReveal().reveal('.card', {'delay':1000});
+ScrollReveal().reveal('.reveal');
