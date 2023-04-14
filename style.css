@@ -150,7 +150,7 @@ html
 .carousel
 {
 	width: 100%;
-	min-height: 70vh;
+	height: 70vh;
 	overflow: hidden;
 	position: relative;
 	display: flex;
